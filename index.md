@@ -8,11 +8,16 @@ This application will be delivered as a  ___ application. (e.g. web, iOS, Androi
 
 Update the links above and add team name, year, semester, course, or other important project information
 
+## Team Collaborators
+
+- Anurag Kumar S531372 , Spring 2018 , 3rd Semester
+- Ujjawal Kumar
+
 ## Client
 
 Clients include:
 
-- list each client and their email
+- Dr. Charles Hoot, hoot@nwmissouri.edu
 
 ## Mentor
 
