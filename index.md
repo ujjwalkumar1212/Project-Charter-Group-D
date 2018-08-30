@@ -1,12 +1,11 @@
 # Project Charter: [GROUP D]
 
 This is the project charter for the Codeword Distributor project.
-This application will be delivered as a  iOS application. (e.g. web, iOS, Android)
+This application will be delivered as a  iOS application. 
 
-- [View Published Version](https://profcase.github.io/project-charter-template)
-- [Source Code](https://github.com/profcase/project-charter-template)
+- [View Published Version]()
+- [Source Code](https://github.com/ujjwalkumar1212/Project-Charter-Group-D)
 
-Update the links above and add team name, year, semester, course, or other important project information
 
 ## Team Collaborators
 
@@ -29,11 +28,12 @@ Mentors include:
 - Dr. Denise Case, dcase@nwmissouri.edu
 
 ## Project Purpose
+This project involves creating an app that issue confidential codewords to each student in a course. Course instructors must not know what code word is given to each student. 
 
 ## Benefits
+The application will be important to improve the statistical significance of results from pre- and post-surveys, by allowing instructors to match pre-to-post responses, without compromising the confidentiality of the surveys.
 
 ## User Roles
-
 This application is used by __ types of users.
 
 1. Administrator
