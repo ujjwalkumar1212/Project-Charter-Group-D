@@ -54,7 +54,7 @@ Sravya Kancharla - As a App framwork architect I would like to make an app which
 
 Vyshnavi Yalamareddy - As a user stories and acceptance criteria checklist I have to come up with ways to communicate our ideas so that I can eliminate misunderstandings between client and development team.
 
-
+Srimai Reddy Yanala -  Sketchs allows us to visualize the screen-to-screen interaction admin and user, so that our idea will be visible and clear in user interface form.
 
 
 
