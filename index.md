@@ -1,7 +1,7 @@
-# Project Charter: [Name here]
+# Project Charter: [GROUP D]
 
-This is the project charter for the ___ project.
-This application will be delivered as a  ___ application. (e.g. web, iOS, Android)
+This is the project charter for the Codeword Distributor project.
+This application will be delivered as a  iOS application. (e.g. web, iOS, Android)
 
 - [View Published Version](https://profcase.github.io/project-charter-template)
 - [Source Code](https://github.com/profcase/project-charter-template)
@@ -10,9 +10,11 @@ Update the links above and add team name, year, semester, course, or other impor
 
 ## Team Collaborators
 
-- Ujjawal Kumar: s530473, Fall 2017, 4th Semester
-- Anurag Kumar S531372 , Spring 2018 , 3rd Semester
-- Srimai Reddy Yanala S531384 , Spring 2018 , 3rd Semester
+- Ujjawal Kumar: S530473, Fall 2017, 4th Semester
+- Anurag Kumar: S531372 , Spring 2018 , 3rd Semester
+- Srimai Reddy Yanala: S531384 , Spring 2018 , 3rd Semester
+- Vyshnavi Yalamareddy: S531383 , Spring 2018 , 3rd semester
+- Sravya Kancharla: S531500, Spring 2018, 3rd Semester
 
 ## Client
 
