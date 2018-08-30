@@ -34,15 +34,29 @@ This project involves creating an app that issue confidential codewords to each 
 The application will be important to improve the statistical significance of results from pre- and post-surveys, by allowing instructors to match pre-to-post responses, without compromising the confidentiality of the surveys.
 
 ## User Roles
-This application is used by __ types of users.
+This application is used by Students.
 
-1. Administrator
-2. Role 2 (name each role)
-3. Role 3...
+1. Administrator - Dr.Hoot
+2. User stories & acceptance criteria checklist - Vyshnavi Yalamareddy
+3. UX sketches & usability - Srimai Reddy Yanala 
+4. App framework, architecture, requirements definition (PWA required) - Sravya Kancharla
+5. E-R diagram & sample data - Anurag Kumar
+6. Coordinate, organize, initialize repository & client contacts, all other - Ujjawal Kumar
+
+
+
 
 ## Stories by Role
 
 For each role, provide a numbered list of stories in the form "As a [user role], I want [some goal] so that [reason]".
+
+Sravya Kancharla - As a App framwork architect I would like to make an app which can be more specific as we have competency levels with others.
+
+Vyshnavi Yalamareddy - As a user stories and acceptance criteria checklist I have to come up with ways to communicate our ideas so that I can eliminate misunderstandings between client and development team.
+
+
+
+
 
 Stories will be maintained in JIRA. 
 
