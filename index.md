@@ -56,9 +56,8 @@ Vyshnavi Yalamareddy - As a user stories and acceptance criteria checklist I hav
 
 Srimai Reddy Yanala -  Sketchs allows us to visualize the screen-to-screen interaction admin and user, so that our idea will be visible and clear in user interface form.
 
+Anurag Kumar - As a data analyst, I want to collect data and get a good relationships among people, objects, places, concepts or events within that system as I want to be used in computing in regard to the organization.
 
-
-Stories will be maintained in JIRA. 
 
 ## Team Organization
 
