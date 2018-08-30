@@ -60,7 +60,6 @@ Anurag Kumar - As a data analyst, I want to collect data and get a good relation
 
 Ujjawal Kumar - As a database administrator, I would be taking care of designing the database and designing ER diagrams, creating database, performing CURD operations, connecting the applications with the database, etc.
 
-
 ## Team Organization
 
 This team is organized as follows.
