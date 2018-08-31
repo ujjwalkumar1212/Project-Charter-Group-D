@@ -92,7 +92,7 @@ This phase includes the development of:
 - Initial stories by role ()
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
-- Initial sample data (link)
+- Initial sample data (https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)
 
 ## Sketches
