@@ -50,15 +50,15 @@ This application is used by Students.
 
 For each role, provide a numbered list of stories in the form "As a [user role], I want [some goal] so that [reason]".
 
-Sravya Kancharla - As a App framwork architect I would like to make an app which can be more specific as we have competency levels with others.
+Sravya Kancharla - As a user I want to make an app which can be more specific so that we have competency levels with others.
 
-Vyshnavi Yalamareddy - As a user stories and acceptance criteria checklist I have to come up with ways to communicate our ideas so that I can eliminate misunderstandings between client and development team.
+Vyshnavi Yalamareddy - As a user I want to come up with ways to communicate our ideas so that I can eliminate misunderstandings between client and development team.
 
-Srimai Reddy Yanala -  Sketchs allows us to visualize the screen-to-screen interaction admin and user, so that our idea will be visible and clear in user interface form.
+Srimai Reddy Yanala - As a user I want to visualize the screen-to-screen interaction admin and user, so that our idea will be visible and clear in user interface form.
 
-Anurag Kumar - As a data analyst, I want to collect data and get a good relationships among people, objects, places, concepts or events within that system as I want to be used in computing in regard to the organization.
+Anurag Kumar - As a user I want to collect data and get a good relationships among people, objects, places, concepts or events within that system as I want to be used in computing in regard to the organization.
 
-Ujjawal Kumar - As a database administrator, I would be taking care of designing the database and designing ER diagrams, creating database, performing CURD operations, connecting the applications with the database, etc.
+Ujjawal Kumar - As a user I would be taking care of designing the database and designing ER diagrams, creating database, performing CURD operations, connecting the applications with the database, etc.
 
 ## Team Organization
 
@@ -85,11 +85,11 @@ Deliverables:
 
 - Project charter
 - Supporting artifacts (as described in this document)
-- Contract (link - the contract will reference this charter and supporting documents)
+- Contract (This is an agreement to deliver the project successfully to the client with help of 5 members team in 14 weeks time period with an approximate amount of 5000 dollars)
 
 This phase includes the development of:
 
-- Initial stories by role (link)
+- Initial stories by role ()
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
 - Initial sample data (link)
