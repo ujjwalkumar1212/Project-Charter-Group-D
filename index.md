@@ -37,18 +37,25 @@ The application will be important to improve the statistical significance of res
 This application is used by Students.
 
 1. Administrator - Dr.Hoot
-2. User stories & acceptance criteria checklist - Vyshnavi Yalamareddy
-3. UX sketches & usability - Srimai Reddy Yanala 
-4. App framework, architecture, requirements definition (PWA required) - Sravya Kancharla
-5. E-R diagram & sample data - Anurag Kumar
-6. Coordinate, organize, initialize repository & client contacts, all other - Ujjawal Kumar
-
-
+2. User
+3. User stories & acceptance criteria checklist - Vyshnavi Yalamareddy
+4. UX sketches & usability - Srimai Reddy Yanala 
+5. App framework, architecture, requirements definition (PWA required) - Sravya Kancharla
+6. E-R diagram & sample data - Anurag Kumar
+7. Coordinate, organize, initialize repository & client contacts, all other - Ujjawal Kumar
 
 
 ## Stories by Role
 
 For each role, provide a numbered list of stories in the form "As a [user role], I want [some goal] so that [reason]".
+
+Administrator Perspective
+As a admin, I would like this application to generate the required code without fail as user should get through that easily
+
+Users Perspective
+As a user I would like to have a good interface as it looks good
+As a user I also would like to get information as soon as I click submit button.
+
 
 Sravya Kancharla - As a user I want to make an app which can be more specific so that we have competency levels with others.
 
@@ -110,6 +117,7 @@ Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/log
 Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Landing.png
 
 - For each phase, initial scope, schedule, budget (included in this document)
+As per the schedule by the end of semester we would submit the whole requirements which requires upto $5000.
 
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
