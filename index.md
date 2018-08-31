@@ -94,6 +94,21 @@ This phase includes the development of:
 - Initial E-R diagram (link)
 - Initial sample data (link)
 - Initial project sketches (link - images must be displayed)
+
+## Sketches
+
+### 1. Login Page
+
+![alt text](login.png)
+
+Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/login.png
+
+### 2. Home Page
+
+![alt text](Landing.png)
+
+Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Landing.png
+
 - For each phase, initial scope, schedule, budget (included in this document)
 
 
