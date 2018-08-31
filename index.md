@@ -93,7 +93,7 @@ This phase includes the development of:
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
 - Initial sample data (link)
-- Initial project sketches (link - images must be displayed)
+- Initial project sketches (link  - images must be displayed)
 
 ## Sketches
 
