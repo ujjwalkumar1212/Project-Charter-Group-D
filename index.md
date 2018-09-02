@@ -47,8 +47,6 @@ This application is used by Students.
 
 ## Stories by Role
 
-For each role, provide a numbered list of stories in the form "As a [user role], I want [some goal] so that [reason]".
-
 Administrator Perspective
 As a admin, I would like this application to generate the required code without fail as user should get through that easily
 
