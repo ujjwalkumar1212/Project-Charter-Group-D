@@ -79,6 +79,8 @@ This team is organized as follows.
 
 ## Scope
 
+Our main aim is to
+
 ### Phase 1 - Conception and initiation (Module 1)
 
 Phase 1 involves a friendly competition between muliple teams, 
@@ -97,6 +99,7 @@ This phase includes the development of:
 - Initial stories by role ()
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
+
 - Initial sample data (https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)
 
