@@ -4,4 +4,4 @@ Hi, this is Anurag. I have placed data into data folder and images into image fo
 
 Hi, this is Srimai. I gave an idea about user side skechtes and created.
 
-Hi, this is Vyshnavi. I have done the documentation part and done the editing part. 
+Hi, this is Vyshnavi. I have done the documentation part and done the editing part in the project template. 
