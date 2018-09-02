@@ -69,15 +69,16 @@ Ujjawal Kumar - As a user I would be taking care of designing the database and d
 
 This team is organized as follows.
 
-|                        | Primary   | Secondary   | Content |
-| ---------------------- | --------- | ----------- |---------|
-| Team Lead              |           |             | Repo, intro, budget, schedule, risk, coordination   |
-| Architect              |           |             | E-R diagram |
-| Data                   |           |             | Sample data |
-| UX                     |           |             | Sketches  |
-| Testing & Acceptance   |           |             | Stories, acceptance criteria |
-
+|                        | Primary              | Secondary            | Content |
+| ---------------------- | -------------------- | -------------------- |---------|
+| Team Lead              | Ujjawal Kumar        | Sravya Kancharla     | Repo, intro, budget, schedule, risk, coordination   |
+| Architect              | Anurag Kumar         | Srimai Reddy Yanala  | E-R diagram |
+| Data                   | Sravya Kancharla     | Vyshnavi Yalamareddy | Sample data |
+| UX                     | Srimai Reddy Yanala  | Anurag Kumar         | Sketches  |
+| Testing & Acceptance   | Vyshnavi Yalamareddy | Ujjawal Kumar        | Stories, acceptance criteria |
 ## Scope
+
+Our main aim is to
 
 ### Phase 1 - Conception and initiation (Module 1)
 
@@ -97,6 +98,7 @@ This phase includes the development of:
 - Initial stories by role ()
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
+
 - Initial sample data (https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)
 
