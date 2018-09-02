@@ -19,7 +19,7 @@ This application will be delivered as a  iOS application.
 
 Clients include:
 
-- Dr. Charles Hoot, hoot@nwmissouri.edu
+- Dr. Charles Hoot123, hoot@nwmissouri.edu
 
 ## Mentor
 
