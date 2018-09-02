@@ -4,7 +4,7 @@ This is the project charter for the Codeword Distributor project.
 This application will be delivered as a  iOS application. 
 
 - [View Published Version]()
-- [Source Code](https://github.com/ujjwalkumar1212/Project-Charter-Group-D)
+- [Source Code](https://github.com/anuragkumar96/Project-Charter-Group-D.git)
 
 
 ## Team Collaborators
