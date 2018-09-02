@@ -108,13 +108,13 @@ This phase includes the development of:
 
 ![alt text](images\login.png)
 
-Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/login.png
+Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/images/login.png
 
 ### 2. Home Page
 
 ![alt text](images\Landing.png)
 
-Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Landing.png
+Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/images/Landing.png
 
 - For each phase, initial scope, schedule, budget (included in this document)
 As per the schedule by the end of semester we would submit the whole requirements which requires upto $5000.
