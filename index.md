@@ -100,6 +100,7 @@ This phase includes the development of:
 - Initial E-R diagram (link)
 - Initial sample data (https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)
+- ![alt text](https://github.com/profcase/rfp-codewords/blob/master/index.md) 
 
 ## Sketches
 
