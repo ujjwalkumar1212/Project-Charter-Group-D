@@ -104,7 +104,7 @@ This phase includes the development of:
 - Initial acceptance criteria
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/data/CodeExcel.xlsx)
-- Initial project sketches (link - images must be displayed)
+- [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 - [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md) 
 
 ## Sketches
