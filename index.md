@@ -4,7 +4,7 @@ This is the project charter for the Codeword Distributor project.
 This application will be delivered as a  iOS application. 
 
 - [View Published Version]()
-- [Source Code](https://github.com/anuragkumar96/Project-Charter-Group-D.git)
+- [Source Code](https://github.com/ujjwalkumar1212/Project-Charter-Group-D.git)
 
 
 ## Team Collaborators
@@ -100,8 +100,8 @@ Deliverables:
 
 This phase includes the development of:
 
-- Initial stories by role ()
-- Initial acceptance criteria (link)
+- [Stories by role](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/Role)
+- Initial acceptance criteria
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/data/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)

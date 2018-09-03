@@ -1,13 +1,13 @@
-**Stories by Role**
+# Stories by Role
 
-**Administrator Perspective:**
+## Administrator Perspective:
 As a admin, I would like this application to generate the required code without fail as user should get through that easily
 
-**Users Perspective**
+## Users Perspective:
 As a user I would like to have a good interface as it looks good
 As a user I also would like to get information as soon as I click submit button.
 
-**Instructor Perspective**:
+## Instructor Perspective:
 As a professor, I would like to conduct surveys and pages should be very effective in the perspective.
 As a professor, I have to grant access of students details and codewords.
 As a professor, I have to upload student details and codewords as necessary.
