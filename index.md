@@ -105,7 +105,8 @@ This phase includes the development of:
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/data/CodeExcel.xlsx)
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
-- [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md) 
+- [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md)
+- Updated Gantt Chart
 
 ## Sketches
 
