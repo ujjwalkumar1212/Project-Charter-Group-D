@@ -105,13 +105,13 @@ This phase includes the development of:
 
 ### 1. Login Page
 
-![alt text](images\login.png)
+![alt text](images/login.png)
 
 Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/images/login.png
 
 ### 2. Home Page
 
-![alt text](images\Landing.png)
+![alt text](images/Landing.png)
 
 Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/images/Landing.png
 
