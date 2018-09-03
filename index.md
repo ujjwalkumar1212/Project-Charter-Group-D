@@ -104,22 +104,12 @@ This phase includes the development of:
 - Initial acceptance criteria
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/data/CodeExcel.xlsx)
-- Initial project sketches (link - images must be displayed)
+- [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 - [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md) 
 
 ## Sketches
 
-### 1. Login Page
-
-![alt text](images/login.png)
-
-Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/images/login.png
-
-### 2. Home Page
-
-![alt text](images/Landing.png)
-
-Link: https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/images/Landing.png
+! [Images](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 
 - For each phase, initial scope, schedule, budget (included in this document)
 As per the schedule by the end of semester we would submit the whole requirements which requires upto $5000.
