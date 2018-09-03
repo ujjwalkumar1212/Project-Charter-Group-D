@@ -19,7 +19,7 @@ This application will be delivered as a  iOS application.
 
 Clients include:
 
-- Dr. Charles Hoot123, hoot@nwmissouri.edu
+- Dr. Charles Hoot, hoot@nwmissouri.edu
 
 ## Mentor
 
@@ -98,7 +98,6 @@ This phase includes the development of:
 - Initial stories by role ()
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
-
 - Initial sample data (https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)
 
@@ -173,6 +172,8 @@ Deliverables:
 The following items are specifically not included in this scope of work:
 
 ## Schedule
+
+
 
 The following general schedule will be followed:
 
