@@ -54,6 +54,11 @@ Users Perspective
 As a user I would like to have a good interface as it looks good
 As a user I also would like to get information as soon as I click submit button.
 
+Instructor Perspective
+As a professor, I would like to conduct surveys and pages should be very effective in the perspective.
+As a professor, I have to grant access of students details and codewords.
+As a professor, I have to upload student details and codewords as necessary.
+
 
 Sravya Kancharla - As a user I want to make an app which can be more specific so that we have competency levels with others.
 
@@ -97,10 +102,10 @@ This phase includes the development of:
 
 - Initial stories by role ()
 - Initial acceptance criteria (link)
-- Initial E-R diagram (link)
-- Initial sample data (https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/CodeExcel.xlsx)
+- [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
+- [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/data/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)
-- ![alt text](https://github.com/profcase/rfp-codewords/blob/master/index.md) 
+- [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md) 
 
 ## Sketches
 
