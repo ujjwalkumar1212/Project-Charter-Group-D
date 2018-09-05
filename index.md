@@ -1,4 +1,4 @@
-# CodeWord Generator: [GROUP D]
+# Feedback CodeWord Generator: [GROUP D]
 
 This is the project charter for the Codeword Distributor project.
 This application will be delivered as a  iOS application. 
