@@ -1,4 +1,4 @@
-# CodeWord Generator: [GROUP D]
+# Feedback CodeWord Generator: [GROUP D]
 
 This is the project charter for the Codeword Distributor project.
 This application will be delivered as a  iOS application. 
@@ -102,14 +102,17 @@ This phase includes the development of:
 - [Stories by role](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/Role)
 - Initial acceptance criteria 
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
-- [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/data/CodeExcel.xlsx)
+- [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/CodeExcel.xlsx)
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 - [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md)
-- Updated Gantt Chart
+- [Updated Gantt Chart](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/Schedule.mpp)
 
 ## Sketches
 
-! [Images](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
+- ### Landing page
+![Sketches](./Script/images/Landing.png)
+- ### Login page
+![Sketches](./Script/images/login.png)
 
 - For each phase, initial scope, schedule, budget (included in this document)
 - As per the schedule by the end of semester we would submit the whole requirements which requires upto $30,000.
