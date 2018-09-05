@@ -109,10 +109,10 @@ This phase includes the development of:
 
 ## Sketches
 
-![alt text](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
-
-# Images
+- ### Landing page
 ![Sketches](./Script/images/Landing.png)
+- ### Login page
+![Sketches](./Script/images/login.png)
 
 - For each phase, initial scope, schedule, budget (included in this document)
 As per the schedule by the end of semester we would submit the whole requirements which requires upto $5000.
