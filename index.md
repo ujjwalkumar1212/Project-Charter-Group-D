@@ -95,7 +95,7 @@ Deliverables:
 
 - Project charter
 - Supporting artifacts (as described in this document).
-- Contract (This is an agreement to deliver the project successfully to the client with help of 5 members team in 14 weeks time period with an approximate amount of 5000 dollars)
+- Contract (This is an agreement to deliver the project successfully to the client with help of 5 members    team in 14 weeks time period with an approximate amount of 30,000 dollars)
 
 This phase includes the development of:
 
@@ -112,7 +112,7 @@ This phase includes the development of:
 ! [Images](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 
 - For each phase, initial scope, schedule, budget (included in this document)
-As per the schedule by the end of semester we would submit the whole requirements which requires upto $5000.
+- As per the schedule by the end of semester we would submit the whole requirements which requires upto $30,000.
 
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
@@ -195,14 +195,6 @@ The complete schedule is shown in the following Gantt chart:
 
 Bill estimation of phase1 for two weeks:
 
-
-
-For the second week:
-
-Number of hours worked- 15
-Wage rate per hour - $70
-Total bill for the second week = $ 1,050
-
 Part 1 - Artifacts to which I have contributed
 
 Week 1
@@ -224,13 +216,6 @@ $300 - Expanded the risk section of the project charter (link to my commit)
 $300 - Expanded the risk section of the project charter (link to my commit)
 Week 2 - REQUIRED: $1100  ($200 in-class + 3 commits, each worth 4 hours for $300)
 (Copy, paste and just keep adding to it each week.... by the end, you will have a record of all your contributions).
-
-
-For the first week:
-
-Number of hours worked - 16
-Wage rate per hour- $70
-Total bill for first week = $ 1,120
 
 
 Present project budget table here. 
