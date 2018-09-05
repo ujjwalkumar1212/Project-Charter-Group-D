@@ -1,19 +1,19 @@
-# Project Charter: [GROUP D]
+# CodeWord Generator: [GROUP D]
 
 This is the project charter for the Codeword Distributor project.
 This application will be delivered as a  iOS application. 
 
-- [View Published Version]()
+- [View Published Version](https://ujjwalkumar1212.github.io/Project-Charter-Group-D/)
 - [Source Code](https://github.com/ujjwalkumar1212/Project-Charter-Group-D.git)
 
 
 ## Team Collaborators
 
-- Ujjawal Kumar: S530473, Fall 2017, 4th Semester
-- Anurag Kumar: S531372 , Spring 2018 , 3rd Semester
-- Srimai Reddy Yanala: S531384 , Spring 2018 , 3rd Semester
-- Vyshnavi Yalamareddy: S531383 , Spring 2018 , 3rd semester
-- Sravya Kancharla: S531500, Spring 2018, 3rd Semester
+- Ujjawal Kumar: S530473@nwmissouri.edu, Fall 2017, 4th Semester
+- Anurag Kumar: S531372@nwmissouri.edu , Spring 2018 , 3rd Semester
+- Srimai Reddy Yanala: S531384@nwmissouri.edu , Spring 2018 , 3rd Semester
+- Vyshnavi Yalamareddy: S531383@nwmissouri.edu , Spring 2018 , 3rd semester
+- Sravya Kancharla: S531500@nwmissouri.edu, Spring 2018, 3rd Semester
 
 ## Client
 
@@ -38,17 +38,14 @@ This application is used by Students.
 
 1. Administrator - Dr.Hoot
 2. User
-3. User stories & acceptance criteria checklist - Vyshnavi Yalamareddy
-4. UX sketches & usability - Srimai Reddy Yanala 
-5. App framework, architecture, requirements definition (PWA required) - Sravya Kancharla
-6. E-R diagram & sample data - Anurag Kumar
-7. Coordinate, organize, initialize repository & client contacts, all other - Ujjawal Kumar
+3. Instructor
 
 
 ## Stories by Role
 
+
 Administrator Perspective
-As a admin, I would like this application to generate the required code without fail as user should get through that easily
+As a admin, I would like this application to generate the required code without fail as user should get through that easily.
 
 Users Perspective
 As a user I would like to have a good interface as it looks good
@@ -59,16 +56,6 @@ As a professor, I would like to conduct surveys and pages should be very effecti
 As a professor, I have to grant access of students details and codewords.
 As a professor, I have to upload student details and codewords as necessary.
 
-
-Sravya Kancharla - As a user I want to make an app which can be more specific so that we have competency levels with others.
-
-Vyshnavi Yalamareddy - As a user I want to come up with ways to communicate our ideas so that I can eliminate misunderstandings between client and development team.
-
-Srimai Reddy Yanala - As a user I want to visualize the screen-to-screen interaction admin and user, so that our idea will be visible and clear in user interface form.
-
-Anurag Kumar - As a user I want to collect data and get a good relationships among people, objects, places, concepts or events within that system as I want to be used in computing in regard to the organization.
-
-Ujjawal Kumar - As a user I would be taking care of designing the database and designing ER diagrams, creating database, performing CURD operations, connecting the applications with the database, etc.
 
 ## Team Organization
 
@@ -81,9 +68,21 @@ This team is organized as follows.
 | Data                   | Sravya Kancharla     | Vyshnavi Yalamareddy | Sample data |
 | UX                     | Srimai Reddy Yanala  | Anurag Kumar         | Sketches  |
 | Testing & Acceptance   | Vyshnavi Yalamareddy | Ujjawal Kumar        | Stories, acceptance criteria |
+
+
+Sravya Kancharla - As a user I want to make an app which can be more specific so that we have competency levels with others.
+
+Vyshnavi Yalamareddy - As a user I want to come up with ways to communicate our ideas so that I can eliminate misunderstandings between client and development team.
+
+Srimai Reddy Yanala - As a user I want to visualize the screen-to-screen interaction admin and user, so that our idea will be visible and clear in user interface form.
+
+Anurag Kumar - As a user I want to collect data and get a good relationships among people, objects, places, concepts or events within that system as I want to be used in computing in regard to the organization.
+
+Ujjawal Kumar - As a user I would be taking care of designing the database and designing ER diagrams, creating database, performing CURD operations, connecting the applications with the database, etc.
+
 ## Scope
 
-Our main aim is to
+Our main aim is to create a web application that works on platform iPhone SE and to distribute the code words among the students and those code words will not match with the other students in the same class.
 
 ### Phase 1 - Conception and initiation (Module 1)
 
@@ -95,7 +94,7 @@ During Phase 1, the teams will work independently and each vision will be shared
 Deliverables:
 
 - Project charter
-- Supporting artifacts (as described in this document)
+- Supporting artifacts (as described in this document).
 - Contract (This is an agreement to deliver the project successfully to the client with help of 5 members team in 14 weeks time period with an approximate amount of 5000 dollars)
 
 This phase includes the development of:
