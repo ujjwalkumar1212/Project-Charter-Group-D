@@ -193,6 +193,46 @@ The complete schedule is shown in the following Gantt chart:
 
 ## Budget
 
+Bill estimation of phase1 for two weeks:
+
+
+
+For the second week:
+
+Number of hours worked- 15
+Wage rate per hour - $70
+Total bill for the second week = $ 1,050
+
+Part 1 - Artifacts to which I have contributed
+
+Week 1
+- Project Charter for iOS (any link)
+- App(https://ujjwalkumar1212.github.io/Project-Charter-Group-D/)
+
+- Project Charter for iOS repository (https://github.com/ujjwalkumar1212/Project-Charter-Group-D.git)
+
+Week 2
+(Copy, paste and just keep adding to it each week.... by the end, you will have a record of all your artifacts).
+
+Part 2 - My personal contributions (Cumulative list by week)
+
+Week 1 - REQUIRED: $1100  ($200 in-class + 3 commits, each worth 4 hours for $300)
+$200 - On-time attendance at three class/client 1-hour meetings (see course attendance)
+$100 - Created repo, invited team members, published initial version (link to my commit)
+$200- Drafted the schedule for our charter based on team discussions, web page gantt chart (link to commit)
+$300 - Expanded the risk section of the project charter (link to my commit)
+$300 - Expanded the risk section of the project charter (link to my commit)
+Week 2 - REQUIRED: $1100  ($200 in-class + 3 commits, each worth 4 hours for $300)
+(Copy, paste and just keep adding to it each week.... by the end, you will have a record of all your contributions).
+
+
+For the first week:
+
+Number of hours worked - 16
+Wage rate per hour- $70
+Total bill for first week = $ 1,120
+
+
 Present project budget table here. 
 
 - Budget must be by phase by team role.
