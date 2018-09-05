@@ -1,4 +1,4 @@
-# CodeWord Generator: [GROUP D]
+# Feedback CodeWord Generator: [GROUP D]
 
 This is the project charter for the Codeword Distributor project.
 This application will be delivered as a  iOS application. 
@@ -105,7 +105,7 @@ This phase includes the development of:
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/CodeExcel.xlsx)
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 - [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md)
-- Updated Gantt Chart
+- [Updated Gantt Chart](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/Schedule.mpp)
 
 ## Sketches
 
