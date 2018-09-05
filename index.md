@@ -109,7 +109,7 @@ This phase includes the development of:
 
 ## Sketches
 
-! [Images](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
+![alt text](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 
 - For each phase, initial scope, schedule, budget (included in this document)
 As per the schedule by the end of semester we would submit the whole requirements which requires upto $5000.
