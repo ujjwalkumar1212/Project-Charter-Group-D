@@ -119,6 +119,8 @@ This phase includes the development of:
 ![Sketches](./Script/images/StudentLogin.png)
 - ### Student's Registration page
 ![Sketches](./Script/images/StudentRegister.png)
+- ### Student's Look Up Clases page
+![Sketches](./Script/images/Lookup.png)
 
 
 - For each phase, initial scope, schedule, budget (included in this document)
