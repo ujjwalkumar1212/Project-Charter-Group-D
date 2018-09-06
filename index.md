@@ -111,7 +111,7 @@ This phase includes the development of:
 
 - ### Landing page
 ![Sketches](./Script/images/Landing.png)
-- ### Login page
+- ### StudentLogin page
 ![Sketches](./Script/images/StudentLogin.png)
 
 - For each phase, initial scope, schedule, budget (included in this document)
