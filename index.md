@@ -109,10 +109,17 @@ This phase includes the development of:
 
 ## Sketches
 
-- ### Landing page
+- ### Instructor's Login page
+![Sketches](./Script/images/InstructorLogin.png)
+- ### Instructor's Landing page
 ![Sketches](./Script/images/Landing.png)
-- ### StudentLogin page
+- ### Student's Home page
+![Sketches](./Script/images/StudentHome.png)
+- ### Student's Login page
 ![Sketches](./Script/images/StudentLogin.png)
+- ### Student's Registration page
+![Sketches](./Script/images/StudentRegistration.png)
+
 
 - For each phase, initial scope, schedule, budget (included in this document)
 - As per the schedule by the end of semester we would submit the whole requirements which requires upto $30,000.
