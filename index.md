@@ -36,7 +36,7 @@ The application will be important to improve the statistical significance of res
 ## User Roles
 This application is used by Students.
 
-1. Administrator - Dr.Hoot
+1. Administrator
 2. User
 3. Instructor
 
@@ -95,12 +95,12 @@ Deliverables:
 
 - Project charter
 - Supporting artifacts (as described in this document).
-- Contract (This is an agreement to deliver the project successfully to the client with help of 5 members    team in 14 weeks time period with an approximate amount of 30,000 dollars)
+- Contract (This is an agreement to deliver the project successfully to the client with help of 5 members team in 14 weeks time period with an approximate amount of 30,000 dollars)
 
 This phase includes the development of:
 
 - [Stories by role](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/Role)
-- Initial acceptance criteria 
+- [Initial acceptance criteria]()
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/CodeExcel.xlsx)
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
@@ -168,11 +168,9 @@ Deliverables:
 
 ## Out of scope
 
-The following items are specifically not included in this scope of work:
+The following items are specifically not included in this scope of work
 
 ## Schedule
-
-
 
 The following general schedule will be followed:
 
@@ -220,22 +218,41 @@ $300 - Expanded the risk section of the project charter (link to my commit)
 Week 2 - REQUIRED: $1100  ($200 in-class + 3 commits, each worth 4 hours for $300)
 (Copy, paste and just keep adding to it each week.... by the end, you will have a record of all your contributions).
 
-
-Present project budget table here. 
+Present project budget table here.
 
 - Budget must be by phase by team role.
-- For each role, assume each contributor will be working 10-12 billable hours per week for 15 weeks per semester
-- Use real-world billing rates. A company must bill you at twice your salary or more - practice proving your worth. 
+- For each role, assume each contributor will be working 10-12 billable hours per week for 15 weeks per semester.
+- Use real-world billing rates. A company must bill you at twice your salary or more - practice proving your worth.
 - Within the team, be specific on what each role will contribute to the budget and how this will be documented.
 
 ## Risk
 
+
 The following have been identified as risks that could contribute to not making scope, budget, or schedule:
 
 - The client changes requirements mid-project...
+- Early and effective communication of project issues to organization and project stakeholders.
+- An effective team building tool, as team buy-in and acceptance is assured.
+
+To control Risk management we have to follow certain principles:
+
+The organization-mandated risk management framework is reviewed and tailored to define the project risk management plan when the project is initiated. The risk management plan includes these definitions and guidelines:
+
+- List of possible risk sources and categories
+- Impact and probability matrix
+- Risk reduction and action plan
+- Risk threshold and metrics
+
 
 ## Acceptance criteria
 
-- For each story, enumerate and clearly describe the acceptance criteria. 
-- Be specific - your client may have a very different definition of vague words. 
+- Backup and Restore testing have to been completed successfully.
+- All requirements have to be formally approved.
+- User acceptance testing (UAT) has to be completed.
+- The Senior User/Project Executive has to be signed off on user acceptance testing.
+
+- For each story, enumerate and clearly describe the acceptance criteria.
+- Be specific - your client may have a very different definition of vague words.
+
+
 
