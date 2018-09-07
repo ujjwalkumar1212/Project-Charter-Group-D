@@ -105,7 +105,7 @@ This phase includes the development of:
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/CodeExcel.xlsx)
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 - [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md)
-- [Updated Gantt Chart](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/Schedule.mpp)
+- [Gantt Chart](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/Schedule.mpp)
 
 ## Sketches
 
@@ -113,10 +113,10 @@ This phase includes the development of:
 ![Sketches](./Script/images/InstructorLogin.png)
 - ### Instructor's Landing page
 ![Sketches](./Script/images/Landing.png)
-- ### Student's Home page
-![Sketches](./Script/images/StudentHome.png)
 - ### Student's Login page
 ![Sketches](./Script/images/StudentLogin.png)
+- ### Student's Home page
+![Sketches](./Script/images/StudentHome.png)
 - ### Student's Registration page
 ![Sketches](./Script/images/StudentRegistration.png)
 
