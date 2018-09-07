@@ -127,6 +127,7 @@ This phase includes the development of:
 - ### Student's Home page
 ![Sketches](./Script/images/StudentHome.png)
 - ### Student's Registration page
+<<<<<<< HEAD
 
 ![Sketches](./Script/images/StudentRegistration.png)
 
@@ -136,6 +137,23 @@ This phase includes the development of:
 
 
 
+=======
+<<<<<<< HEAD
+![Sketches](./Script/images/StudentRegistration.png)
+=======
+![Sketches](./Script/images/StudentRegister.png)
+>>>>>>> 257bae8ca5375ad0dabea0816c6fe72c61a25a13
+
+- ### Student's Look Up Clases page
+![Sketches](./Script/images/Lookup.png)
+=======
+<<<<<<< HEAD
+
+=======
+![Sketches](./Script/images/StudentRegistration.png)
+>>>>>>> 106553840bfdfafca3e8d657d2eba85e259d9d1a
+>>>>>>> 257bae8ca5375ad0dabea0816c6fe72c61a25a13
+>>>>>>> 44a350524d615464f01a4acc572172cdfb7dba28
 
 
 - For each phase, initial scope, schedule, budget (included in this document)
