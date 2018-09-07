@@ -120,16 +120,21 @@ This phase includes the development of:
 ![Sketches](./Script/images/Instructorcourse.png)
 - ### Survey page
 ![Sketches](./Script/images/Landing.png)
+- ### Survey details
+![Sketches](./Script/images/InstrPecent.png)
 - ### Student's Login page
 ![Sketches](./Script/images/StudentLogin.png)
 - ### Student's Home page
 ![Sketches](./Script/images/StudentHome.png)
 - ### Student's Registration page
+
 ![Sketches](./Script/images/StudentRegistration.png)
+
 
 - ### Student's Look Up Clases page
 ![Sketches](./Script/images/Lookup.png)
-=======
+
+
 
 
 
