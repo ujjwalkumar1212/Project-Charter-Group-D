@@ -118,7 +118,7 @@ This phase includes the development of:
 - ### Student's Login page
 ![Sketches](./Script/images/StudentLogin.png)
 - ### Student's Registration page
-![Sketches](./Script/images/StudentRegister.png)
+![Sketches](./Script/images/StudentRegistration.png)
 
 
 - For each phase, initial scope, schedule, budget (included in this document)
