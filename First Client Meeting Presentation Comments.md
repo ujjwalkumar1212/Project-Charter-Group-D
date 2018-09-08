@@ -9,4 +9,6 @@ Our web application should be restricted to only one login page.
 In instructor page, we have to use from and to dates when adding a course.
 We have to use + symbol for adding a course, this idea which was given by Dr. Hoot
 Also link for resetting password.
-
+Have to show the percentage of students who retrived codeword in instructor codeword.
+Roles pages should be updated with more generic information.
+That should include all the role responsibilities for student, instructor and admin.
