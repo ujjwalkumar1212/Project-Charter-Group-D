@@ -123,7 +123,12 @@ This phase includes the development of:
 
 ## Sketches
 
-- ### Instructor's Login page
+- ### Login page
+![Sketches](./Script/images/Week2/Login.png)
+- ### Register Page
+![Sketches](./Script/images/Week2/Register.png) 
+
+<!-- - ### Instructor's Login page
 ![Sketches](./Script/images/InstructorLogin.png)
 - ### Instructor's Home page
 ![Sketches](./Script/images/InstructoHomer.png)
@@ -133,21 +138,12 @@ This phase includes the development of:
 ![Sketches](./Script/images/Landing.png)
 - ### Survey details
 ![Sketches](./Script/images/InstrPecent.png)
-- ### Student's Login page
-![Sketches](./Script/images/StudentLogin.png)
 - ### Student's Home page
 ![Sketches](./Script/images/StudentHome.png)
 - ### Student's Registration page
-
-
 ![Sketches](./Script/images/StudentRegistration.png)
-
-
 - ### Student's Look Up Clases page
 ![Sketches](./Script/images/Lookup.png)
-
-
-
 =======
 
 ![Sketches](./Script/images/StudentRegistration.png)
@@ -162,7 +158,7 @@ This phase includes the development of:
 
 =======
 ![Sketches](./Script/images/StudentRegistration.png)
-
+ -->
 
 
 - For each phase, initial scope, schedule, budget (included in this document)
