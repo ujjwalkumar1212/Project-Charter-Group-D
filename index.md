@@ -127,7 +127,10 @@ This phase includes the development of:
 ![Sketches](./Script/images/Week2/Login.png)
 - ### Register Page
 ![Sketches](./Script/images/Week2/Register.png) 
-
+- ### Students's Home page
+![Sketches](./Script/images/Week2/StudentHome.png)
+- ### Student's Course page
+![Sketches](./Script/images/Week2/StudentCourse.png)
 <!-- - ### Instructor's Login page
 ![Sketches](./Script/images/InstructorLogin.png)
 - ### Instructor's Home page
