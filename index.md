@@ -45,16 +45,19 @@ This application is used by Students.
 
 
 Administrator Perspective
-As a admin, I would like this application to generate the required code without fail as user should get through that easily.
+Admin needs to access the Student and Instructor login pages.
+Admin need not to know the students codeword.
+Admin needs to protect the information from both the Instructor and Student end. 
 
-Users Perspective
-As a user I would like to have a good interface as it looks good
-As a user I also would like to get information as soon as I click submit button.
+Student Perspective
+Student would like to receive the codeword as soon as survey was completed.
+Student need to access to their login page correctly
 
 Instructor Perspective
-As a professor, I would like to conduct surveys and pages should be very effective in the perspective.
-As a professor, I have to grant access of students details and codewords.
-As a professor, I have to upload student details and codewords as necessary.
+Instructor would like to have only one login page for Instructor and Student.
+Instructor would like to have end and start date for the courses.
+Instructor would like to have the survey percentage on the home page itself rather than that survey page redirecting to an other page.
+ 
 
 
 ## Team Organization
