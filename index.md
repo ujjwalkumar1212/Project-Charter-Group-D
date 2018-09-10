@@ -144,6 +144,11 @@ This phase includes the development of:
 ![Sketches](./Script/images/Week2/InstructorStdDetails.png)
 - ### Instructor Survey Page
 ![Sketches](./Script/images/Week2/InstructorSurvey.png)
+- ### Logout Page
+![Sketches](./Script/images/Week2/Logout.png)   
+- ### Promptlogout Page
+![Sketches](./Script/images/Week2/Promptlogout.png)
+
 
 
 <!-- - ### Instructor's Login page
