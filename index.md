@@ -133,6 +133,12 @@ This phase includes the development of:
 ![Sketches](./Script/images/Week2/StudentCourse.png)
 - ### Student CodeWord Page
 ![Sketches](./Script/images/Week2/StudentCodeWord.png)
+- ### Student Instructor's Course Page
+![Sketches](./Script/images/Week2/InstuctorCourse.png)
+- ### Student Instructor Survey Page
+![Sketches](./Script/images/Week2/InstructorSurvey.png)
+
+
 <!-- - ### Instructor's Login page
 ![Sketches](./Script/images/InstructorLogin.png)
 - ### Instructor's Home page
