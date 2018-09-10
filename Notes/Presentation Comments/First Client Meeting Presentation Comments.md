@@ -23,6 +23,8 @@ After watching our presentation and listing to us, Dr. Hoot suggested few change
 - In student registration page, lookup classes and add/drop classes need not be necessary.
 - In student home page, the contents like test scores and student records are not that relevant and they should be changed.
 - Sample data needs to be added into the sample data table.
+- Real-time database has to be introduced.
+- More entities has to be added in the real-time database like admin, instructor and student.
 - Our web application should be restricted to only one login page.
 - From and To dates are required while adding a course in instructor page.
 - For adding a course, "+" symbol at the top corner of UI will look more relevent instead of clicking on add/drop courses.
@@ -31,8 +33,11 @@ After watching our presentation and listing to us, Dr. Hoot suggested few change
 - Roles pages should be updated with more generic information which should include all the roles and responsibilities for students, instructor and admin.
 - We need to create data in differet sets which may include set of 80 datas, set of 500 datas and set of 5000 datas also.
 - User stories need to be in more detail like I want to do "specific task".
-- There should not be multiple login pages, insted only one login page will work.
+- There should not be multiple login pages, instead only one login page will work.
+- There should be different link options for admin,instructor and student login in same login page.
+-  The admin,instructor and student pages must different from each other.
 - Before login, Instructor/student should be able to register himself/herself as registration is always done befor doing login.
 - We need to think for "GENDER" option or remove it as our Dr. Hoot was not fully satisfied with that option.
-- Instead of clicking on Gender option, user can be asked for an URL as well. 
+- Instead of clicking on Gender option, other option creative option can be added as well. 
+- There should be a URL that should direct user directly to the Survey page from our application page.
 
