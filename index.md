@@ -131,6 +131,8 @@ This phase includes the development of:
 ![Sketches](./Script/images/Week2/StudentHome.png)
 - ### Student's Course page
 ![Sketches](./Script/images/Week2/StudentCourse.png)
+- ### Student CodeWord Page
+![Sketches](./Script/images/Week2/StudentCodeWord.png)
 <!-- - ### Instructor's Login page
 ![Sketches](./Script/images/InstructorLogin.png)
 - ### Instructor's Home page
@@ -147,6 +149,7 @@ This phase includes the development of:
 ![Sketches](./Script/images/StudentRegistration.png)
 - ### Student's Look Up Clases page
 ![Sketches](./Script/images/Lookup.png)
+
 =======
 
 ![Sketches](./Script/images/StudentRegistration.png)
