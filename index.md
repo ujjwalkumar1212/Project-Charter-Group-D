@@ -119,6 +119,7 @@ This phase includes the development of:
 - Planned Schedule for these three months:
 ![Sketches](.//Script/ganttSchedule.png)
 - [Gantt Chart](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/Schedule.mpp)
+- [Student Details Sample Data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/StudentDetailsforCourse.xlsx)
 
 
 ## Sketches
@@ -133,9 +134,15 @@ This phase includes the development of:
 ![Sketches](./Script/images/Week2/StudentCourse.png)
 - ### Student CodeWord Page
 ![Sketches](./Script/images/Week2/StudentCodeWord.png)
-- ### Student Instructor's Course Page
+- ### Instructor's Home Page
+![Sketches](./Script/images/Week2/InstructorHome.png)
+- ### Instructor's Add/Drop Page
+![Sketches](./Script/images/Week2/InstructorAddDrop.png)
+- ### Instructor's Course Page
 ![Sketches](./Script/images/Week2/InstuctorCourse.png)
-- ### Student Instructor Survey Page
+- ### Student Details in Instructor Page
+![Sketches](./Script/images/Week2/InstructorStdDetails.png)
+- ### Instructor Survey Page
 ![Sketches](./Script/images/Week2/InstructorSurvey.png)
 
 
