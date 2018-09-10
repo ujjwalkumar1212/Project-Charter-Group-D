@@ -117,7 +117,7 @@ This phase includes the development of:
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
 - [RFP](https://github.com/profcase/rfp-codewords/blob/master/index.md)
 - Planned Schedule for these three months:
-![Sketches](.//Script/ganttSchedule.png)
+![Sketches](./Script/ganttSchedule.png)
 - [Gantt Chart](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/Schedule.mpp)
 - [Student Details Sample Data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/StudentDetailsforCourse.xlsx)
 
@@ -148,6 +148,7 @@ This phase includes the development of:
 ![Sketches](./Script/images/Week2/Logout.png)   
 - ### Promptlogout Page
 ![Sketches](./Script/images/Week2/Promptlogout.png)
+
 
 
 

@@ -12,3 +12,10 @@ Also link for resetting password.
 Have to show the percentage of students who retrived codeword in instructor codeword.
 Roles pages should be updated with more generic information.
 That should include all the role responsibilities for student, instructor and admin.
+
+Didn't want any gender option.
+Creating a single Login page for both faculty and student.
+
+We can add link of survey page.
+Need to update the database.
+Make our relation in the database according to E-R diagram.
