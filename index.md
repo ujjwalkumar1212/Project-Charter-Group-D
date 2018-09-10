@@ -111,7 +111,7 @@ Deliverables:
 This phase includes the development of:
 
 - [Stories by role](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/Role.md)
-- [Initial acceptance criteria]()
+- [Initial acceptance criteria](./Script/data/Risk and Acceptance.md)
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/CodeExcel.xlsx)
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
@@ -324,6 +324,3 @@ The organization-mandated risk management framework is reviewed and tailored to 
 
 - For each story, enumerate and clearly describe the acceptance criteria.
 - Be specific - your client may have a very different definition of vague words.
-
-
-
