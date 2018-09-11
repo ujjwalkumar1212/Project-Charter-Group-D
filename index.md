@@ -111,7 +111,7 @@ Deliverables:
 This phase includes the development of:
 
 - [Stories by role](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/Role.md)
-- [Initial acceptance criteria](./Script/data/Risk and Acceptance.md)
+- [Initial acceptance criteria](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/data/Risk%20and%20Acceptance.md)
 - [E-R diagram](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/ER%20diagram/entity.png)
 - [Sample data](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/Script/data/CodeExcel.xlsx)
 - [Project sketches](https://github.com/ujjwalkumar1212/Project-Charter-Group-D/blob/master/Script/images/images.pdf)
