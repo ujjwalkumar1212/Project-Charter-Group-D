@@ -16,3 +16,11 @@ Issues are managed within projects like gropus set clearly how each tasks are do
 Issues are tracked along workflows from unstarted to completed
 Admins make things better:
 There are two kinds of admins from jira and Project for creating and managing projects.
+
+
+
+Here are urls for videos I have seen:
+
+https://www.youtube.com/watch?v=NrHpXvDXVrw&vl=en
+https://www.youtube.com/watch?v=aAeZcjuZyck
+https://www.youtube.com/watch?v=jP8ved4DuMc
