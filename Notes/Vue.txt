@@ -1,0 +1,14 @@
+Vue is a progressive framework for building user interfaces.
+Vue.js is a JavaScript front-end framework that was built to organize and simplify web development
+It is designed from the ground up to be incrementally adoptable. 
+It is easy to pick up and integrate with other libraries or existing projects. 
+Vue uses an HTML-based template
+Vue templates are valid HTML that can be parsed by spec-compliant browsers and HTML parsers
+Components are one of the most powerful features of Vue
+ In components it is necessary to divide the whole app into small, self-contained, and often reusable components to make development manageable
+Components extend basic HTML elements to encapsulate reusable code
+Vue provides a variety of ways to apply transition effects when items are inserted, updated, or removed from the DOM
+Transition automatically apply classes for CSS transitions and animations
+it uses JavaScript to directly manipulate the DOM during transition hooks
+JavaScript libraries like Vue provide an easy Interface to change what is displayed on the page based on the current URL path 
+Vue itself doesn’t come with front-end hashed routing
