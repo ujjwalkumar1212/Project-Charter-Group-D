@@ -12,3 +12,8 @@ Transition automatically apply classes for CSS transitions and animations
 it uses JavaScript to directly manipulate the DOM during transition hooks
 JavaScript libraries like Vue provide an easy Interface to change what is displayed on the page based on the current URL path 
 Vue itself doesn’t come with front-end hashed routing
+
+link : https://youtu.be/mZY1yyrlJWU
+https://youtu.be/M2HZ9fc39z4
+https://youtu.be/utJGnK9D_UQ
+https://youtu.be/ulHt78ad890
