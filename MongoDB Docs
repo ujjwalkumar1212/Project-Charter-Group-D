@@ -1,0 +1,15 @@
+MongoDB is an open source document database and uses NoSQL.
+Here the code is written in c++.
+It is an cross-paltform and it is document oriented database that provides high performance, availability and scalability and it works on concepts like collection and document.
+In collections database is a physical container and it has several databases.
+Collections is nothing but it is a group of MongoDB components and sometimes this acts like an RDBMS table.
+We will have many collections in a single database and it do not enforce an schema.
+In collections there are different documents that has different fields.
+In collections there are similar documents and there will be all related with each other.
+And it has documents that has a variety set of key value pairs and it has dynamic schema.
+Dynamic schema is that documents in the collections they do no need to have same set of fields or like common fields has different types of data.
+Another important thing in MongoDB is no concept of relationship.
+we can use MongoDB in Big Data, Data Hub, User data management, mobile and social infrastructure and content management and delivery.
+
+
+
