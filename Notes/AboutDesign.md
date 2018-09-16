@@ -1,2 +1,5 @@
 Description:
 Report Writing for Architects presents a crucial report on standard report formats use within writing reports for architects. It discusses some formats to simply help architects and surveyors to generate good reports for his or her client. It addresses every instance that necessitates the creation of architectural report. A few of the topics covered in the book are the point, market, format, presentation, and details of a written report; description, style and basis of this content of are accountable to be written; creating reports linked to building projects; making of feasibility report format and its content; and considerations in making a report. The outline proposals report format and the scheme design format are discussed. An in-depth analysis of fabricating a progress report is given. The book also covers a unique report, report on claim for loss and expense, a written report on award of extension of time format, and miscellaneous reports. The book can offer useful information to architects, surveyors, students, and researchers.
+
+
+Here is the url for this: https://www.youtube.com/watch?v=ZgdS0EUmn70
