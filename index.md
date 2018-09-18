@@ -9,7 +9,7 @@ This application will be delivered as a  iOS application.
 
 ## Team Collaborators
 
-- Ujjawal Kumar: S530473@nwmissouri.edu, Fall 2017, 4th Semester
+- Ujjawal Kumar: S530473@nwmissouri.edu, Fall 2017,4th Semester
 - Anurag Kumar: S531372@nwmissouri.edu , Spring 2018 , 3rd Semester
 - Srimai Reddy Yanala: S531384@nwmissouri.edu , Spring 2018 , 3rd Semester
 - Vyshnavi Yalamareddy: S531383@nwmissouri.edu , Spring 2018 , 3rd semester
